@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img width="400px" src="./.github/logo.png" />
+  <br />
+  <a href="https://www.linkedin.com/in/bianca-giovanna/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-bianca%20giovanna-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
+  </a>
+  </a>
+</h1>
+<p align="center">
+  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licença">Licença</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :page_facing_up: Descrição
 
-## Available Scripts
+Esste foi um teste realizado para a vaga de Dev Front-end para a <a href="https://www.rdstation.com">RD Station</a>.
 
-In the project directory, you can run:
+## :art: Layout
 
-### `npm start`
+Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma</a> atravês <a href="">desse link</a>.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛠 Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Este projeto foi desenvolvido com as seguintes tecnologias
 
-### `npm test`
+- [React.js](https://pt-br.reactjs.org/)
+- [StyledComponents](https://styled-components.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :clipboard: Funcionalidades
 
-### `npm run build`
+- [] Layout Responsivo
+- [] Formulario de cadastro com validações.
+- [] Play de video em uma modal
+- [] Links para as redes sociais
+- [] Botão "Criar conta Gratuita"
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :closed_book: Instalação
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pré-requisitos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### `npm run eject`
+```bash
+# Clone este repositório.
+$ git clone https://github.com/BiancaGiovanna/Test-RD-station
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Vá para a pasta test-rd-station
+$ cd test-rd-station
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Instale as dependências
+$ npm i
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Execute aplicação
+$ npm start
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
+```
 
-## Learn More
+## Dificuldades
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Bom tive dificuldades na realização do teste por conta de questões técnicas,
+sei que a minha aplicação não atingiu os requisitos funcionais!
+Mas faço questão de entregar esse teste como aprendizado, como lembrete que eu
+falhei e preciso sim estudar mais e me aprimorar como desenvolvedora
+Espero um dia fazer parte do time da RD Station
+Afinal todos temos casos de sucesso e fracasso!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Entre em contato!🚀
 
-### Code Splitting
+<a href="https://www.linkedin.com/in/bianca-giovanna/">
+  <img alt="Linkedin" src="https://media-exp1.licdn.com/dms/image/C4E03AQHAEF5GTNTUMw/profile-displayphoto-shrink_200_200/0/1599240884500?e=1620259200&v=beta&t=Mefo7g8KacbcqAWuih5GBVw-IU5f56xUfnyRJjCUxUM">
+</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## :memo: Licença
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Copyright © 2021 [Bianca Giovanna](https://github.com/BiancaGiovanna).<br />
